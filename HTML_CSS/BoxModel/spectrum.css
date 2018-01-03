@@ -1,0 +1,45 @@
+h1{
+	text-align: center;
+	font-family:'Risque', cursive;
+
+}
+
+.art{
+	margin:auto;
+}
+
+
+td{
+	height:250px;
+	width:125px;
+	text-align: center;
+	border:10px solid white;
+
+}
+
+#one{
+	background-color: #fefbd8;
+	
+}
+
+#two{
+	background-color: #618685;
+}
+
+#three{
+	background-color: #36486b;
+}
+
+#four{
+	background-color: #4040a1;
+}
+
+
+
+
+
+
+
+
+
+
